@@ -4,7 +4,7 @@
 
 
 <div align="center">
-# Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, soy Miguel Cruz <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> 
+Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, soy Miguel Cruz <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> 
 </div>
 <br>
 <br>
@@ -23,22 +23,29 @@
 
 ### Lenguajes de Programación
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,js,php,dart,kotlin&theme=light" alt="Lenguajes">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,php,dart,kotlin&theme=dark" alt="Lenguajes">
 </div>
 
 ### Bases de Datos
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=light" alt="Bases de datos">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="Bases de datos">
 </div>
 
 ### Frontend/Móvil
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,flutter,bootstrap,tailwind,html,css&theme=light" alt="Frontend">
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,bootstrap,tailwind,html,css,vite,sass&theme=dark" alt="Frontend">
 </div>
 
 ### Backend/APIs
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,netlify,vercel&theme=light" alt="Backend">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" alt="Backend">
+</div>
+
+<div align="center">
+Entornos de desarrollo
+ <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,idea,visualstudio&theme=dark" alt=Entornos de desarrollo">
+
+
 </div>
 
 ### Herramientas
