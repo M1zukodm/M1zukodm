@@ -2,12 +2,14 @@
   <img src="https://raw.githubusercontent.com/M1zukodm/M1zukodm/main/assets/banner-github.png" alt="Miguel Cruz - Full Stack Developer" width="100%"/>
 </div>
 
-# Hola, soy Miguel Cruz <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<div align="center">
+# Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, soy Miguel Cruz <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> 
+</div>
 
 <div align="center">
   <strong>Ingeniero en Sistemas | Full-Stack Developer | Especialidad en Innovación, Gestión y Desarrollo de Tecnologías Web.</strong>
   <br>
-  <img src="https://img.shields.io/badge/Experiencia-15%2B_años-blue?style=flat&logo=experience&logoColor=white">
+
   <img src="https://img.shields.io/badge/Enfoque-Soluciones_Técnicas-green?style=flat">
 </div>
 
