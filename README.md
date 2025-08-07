@@ -71,9 +71,14 @@
 
 <br>
 
+### <div align="center"><b>Control de versiones y colaboración</b></div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,&theme=dark" alt="Herramientas">
+</div>
+
 ### <div align="center"><b>Herramientas</b></div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,aws,gcp&theme=dark" alt="Herramientas">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,figma,postman,aws,gcp&theme=dark" alt="Herramientas">
   <br>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP">
   <img src="https://img.shields.io/badge/Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" alt="Office">
