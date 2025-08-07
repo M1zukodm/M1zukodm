@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, soy Miguel Cruz <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> 
+  <span style="font-size: 30px; font-weight: bold;">Hola</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, <span style="font-size: 30px; font-weight: bold;">soy Miguel Cruz</span> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> 
 </div>
 
 <br>
@@ -11,7 +11,25 @@ Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/As
 <div align="center">
   <strong>Ingeniero en Sistemas | Full-Stack Developer | Especialidad en Innovación, Gestión y Desarrollo de Tecnologías Web</strong>
   <br>
-  <img src="https://img.shields.io/badge/Enfoque-Soluciones_Técnicas-green?style=flat">
+    <br>
+      <br>
+   
+<div align="center">
+  <!-- Primera línea -->
+  <img src="https://img.shields.io/badge/✔️_Responsabilidad-Compromiso_Profesional-0052CC?style=for-the-badge&logo=verified&logoColor=white" alt="Responsabilidad">
+  <img src="https://img.shields.io/badge/🔄_Adaptabilidad-Resiliencia_Tecnológica-00B4D8?style=for-the-badge&logo=loop&logoColor=white" alt="Adaptabilidad">
+  
+  <!-- Segunda línea -->
+  <img src="https://img.shields.io/badge/🔍_Pensamiento-Analítico_y_Crítico-6A5ACD?style=for-the-badge&logo=search&logoColor=white" alt="Pensamiento crítico">
+  <img src="https://img.shields.io/badge/💡_Autonomía-Solución_Proactiva-FFA500?style=for-the-badge&logo=idea&logoColor=black" alt="Autonomía">
+  
+  <!-- Tercera línea -->
+  <img src="https://img.shields.io/badge/🎯_Orientación-Resultados_Estratégicos-32CD32?style=for-the-badge&logo=target&logoColor=white" alt="Orientación">
+  <img src="https://img.shields.io/badge/📢_Comunicación-Técnica_Clara-DC143C?style=for-the-badge&logo=message&logoColor=white" alt="Comunicación">
+  
+  <!-- Cuarta línea -->
+  <img src="https://img.shields.io/badge/🤝_Ética-Enfoque_Humano-8A2BE2?style=for-the-badge&logo=handshake&logoColor=white" alt="Ética profesional">
+</div>
 </div>
 
 ---
