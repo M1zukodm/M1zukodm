@@ -5,9 +5,20 @@
 
 ### 🔧 Tecnologías  
 
-#### Lenguajes | Bases de Datos | Frontend | Backend | Herramientas  
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,php,dart,kotlin,mysql,mongodb,firebase,react,angular,flutter,bootstrap,tailwind,nodejs,express,vscode,pycharm,androidstudio,idea,visualstudio,git,github,docker,figma,postman)](https://skillicons.dev)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)  
+#### Lenguajes  
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,php,dart,kotlin)](https://skillicons.dev)  
+
+#### Bases de Datos  
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)  
+
+#### Frontend / Móvil  
+[![My Skills](https://skillicons.dev/icons?i=react,angular,flutter,bootstrap,tailwind)](https://skillicons.dev)  
+
+#### Backend / APIs  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) ![PHP](https://skillicons.dev/icons?i=php) ![Railway](https://skillicons.dev/icons?i=railway) ![Netlify](https://skillicons.dev/icons?i=netlify)  
+
+#### Herramientas  
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,idea,visualstudio,git,github,docker,figma,postman)](https://skillicons.dev)  
 
 ---
 
