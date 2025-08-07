@@ -6,6 +6,9 @@
 <div align="center">
 # Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, soy Miguel Cruz <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> 
 </div>
+<br>
+<br>
+<br>
 
 <div align="center">
   <strong>Ingeniero en Sistemas | Full-Stack Developer | Especialidad en Innovación, Gestión y Desarrollo de Tecnologías Web.</strong>
