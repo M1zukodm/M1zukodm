@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/M1zukodm/M1zukodm/main/assets/banner-github.png" alt="Miguel Cruz - Full Stack Developer" width="100%"/>
+  <div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
+
 
 <div align="center">
 # Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, soy Miguel Cruz <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> 
@@ -58,8 +59,9 @@
 ## 📬 Contacto
 <div align="center">
   <a href="mailto:miguelcruzgm1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="24" alt="Email"></a> 
-  <a href="https://linkedin.com/in/miguel-angel-cruz-rodriguez-2a1a66348"><img src="https://skillicons.dev/icons?i=linkedin" height="24" alt="LinkedIn"></a>
-  <a href="https://twitter.com/tu_usuario"><img src="https://skillicons.dev/icons?i=twitter" height="24" alt="Twitter"></a>
-  <br>
-  <p>📧 miguelcruzgm1@gmail.com | 💼 LinkedIn</p>
+  <a href="https://linkedin.com/in/miguel-angel-cruz-rodriguez-2a1a66348"><img src="https://skillicons.dev/icons?i=linkedin" height="24" alt="LinkedIn"></a> 
+</div>
+
+  <div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
