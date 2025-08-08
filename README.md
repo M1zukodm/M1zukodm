@@ -6,27 +6,36 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="250"/>
 </p>
 
-<h1 align="center">Hola yo soy<a href="https://github.com/Aryagm">Miguel Cruz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
+<h1 align="center">Yo soy <a href="https://github.com/Aryagm">Miguel Cruz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>   <img height="30" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" style="vertical-align:middle"></h1>
+
+## 👨‍💻 Sobre mí
+
+- 💡 Me encanta crear soluciones tecnológicas útiles y accesibles.
+- 👨‍🎓 Actualmente estoy finalizando la carrera de Ingeniería en Sistemas Computacionales.
+- 🌐 Me apasiona el desarrollo web y móvil, así como la inteligencia artificial y la automatización.
+- 🧩 Siempre estoy buscando nuevos retos y formas de mejorar.
+
 
 <div align="center">
-  <span style="font-size: 32px; font-weight: 800;">Hola</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" style="vertical-align:middle"> 
-  <span style="font-size: 36px; font-weight: 800;">soy Miguel Cruz</span> <img height="30" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" style="vertical-align:middle">
-</div>
-
-<br>
-
-<div align="center">
-  <strong style="font-size: 20px;">Ingeniero en Sistemas | Full-Stack Developer | Especialidad en Innovación, Gestión y Desarrollo de Tecnologías Web</strong>
+  <strong style="font-size: 20px;">Ingeniero en Sistemas Computacionales | Full-Stack Developer | Especialidad en Innovación, Gestión y Desarrollo de Tecnologías Web <img height="20" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" style="vertical-align:middle"></h1></strong>
   <br>
-  <br>
+    <br>
+  <p style="font-size: 16px; max-width: 800px; margin: 0 auto;">
+<img src="https://img.icons8.com/fluency/48/laptop--v1.png" width="24" style="background-color: white; padding: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 6px;">
+    Ingeniero en Sistemas Computacionales enfocado en el desarrollo de soluciones tecnológicas innovadoras, con pasión por diseñar sistemas eficientes que impulsen la productividad y la experiencia del usuario. Combino habilidades técnicas en desarrollo full-stack, automatización y gestión de bases de datos con un enfoque estratégico para resolver problemas complejos.
+  </p>
   <br>
   </div>
-  
 
-   
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <div align="center">
+
+
+
   
-### 💼 Competencias Profesionales
+### 💼 Mis competencias profesionales
 
 <!-- Fila 1 -->
 <img src="https://img.shields.io/badge/🔵_Responsabilidad-Compromiso_Profesional-0052CC?style=for-the-badge&logo=verified&logoColor=white" alt="Responsabilidad">
@@ -47,7 +56,7 @@
 
 ---
 
-## <div align="center"><b>🔧 Tecnologías</b></div>
+## <div align="center"><b>💻 Mis Tecnologías </b></div>
 
 ### <div align="center"><b>Lenguajes de Programación</b></div>
 <div align="center">
