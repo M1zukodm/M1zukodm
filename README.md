@@ -2,17 +2,23 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
 <div align="center">
-  <span style="font-size: 30px; font-weight: bold;">Hola</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, <span style="font-size: 30px; font-weight: bold;">soy Miguel Cruz</span> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> 
+  <span style="font-size: 32px; font-weight: 800;">Hola</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" style="vertical-align:middle"> 
+  <span style="font-size: 36px; font-weight: 800;">soy Miguel Cruz</span> <img height="30" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" style="vertical-align:middle">
 </div>
 
 <br>
 
 <div align="center">
-  <strong>Ingeniero en Sistemas | Full-Stack Developer | Especialidad en Innovación, Gestión y Desarrollo de Tecnologías Web</strong>
+  <strong style="font-size: 20px;">Ingeniero en Sistemas | Full-Stack Developer | Especialidad en Innovación, Gestión y Desarrollo de Tecnologías Web</strong>
   <br>
-    <br>
-      <br>
+  <br>
+  <br>
+  </div>
+  
+
    
 <div align="center">
   
