@@ -7,17 +7,25 @@
 </p>
 
 
-<h1 align="center">Yo soy <a href="https://github.com/Aryagm">Miguel Cruz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>   <img height="30" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" style="vertical-align:middle"></h1>
+<h1 align="center">Yo soy <a href="https://github.com/Aryagm">Miguel Cruz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>   
 
-## 👨‍💻 Sobre mí
+## <div align="center"><img src="https://img.icons8.com/fluency/48/about.png" width="30"/> Sobre mí</div>
 
-- 💡 Me encanta crear soluciones tecnológicas útiles y accesibles.
-- 👨‍🎓 Actualmente estoy finalizando la carrera de Ingeniería en Sistemas Computacionales.
-- 🌐 Me apasiona el desarrollo web y móvil, así como la inteligencia artificial y la automatización.
-- 🧩 Siempre estoy buscando nuevos retos y formas de mejorar.
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  
+ <img src="https://img.icons8.com/fluency/24/idea.png" width="20"/> **Creatividad:** Me encanta crear soluciones tecnológicas útiles y accesibles.
+ <br>
+<img src="https://img.icons8.com/fluency/24/student-center.png" width="20"/> **Formación:** Actualmente estoy finalizando la carrera de Ingeniería en Sistemas Computacionales.
+ <br>
+ <img src="https://img.icons8.com/fluency/24/web.png" width="20"/> **Pasiones:** Desarrollo web/móvil, inteligencia artificial y automatización.
+  <br>
+<img src="https://img.icons8.com/fluency/24/experimental-puzzle-piece.png" width="20"/> **Enfoque:** Siempre busco nuevos retos y formas de mejorar.
+</div>
 
+## <div align="center"><img src="https://img.icons8.com/fluency/48/about.png" width="30"/> Perfil profesional</div>
 
 <div align="center">
+    <p style="font-size: 16px; max-width: 800px; margin: 0 auto; font-size:bold; "> Yo soy <p/>
   <strong style="font-size: 20px;">Ingeniero en Sistemas Computacionales | Full-Stack Developer | Especialidad en Innovación, Gestión y Desarrollo de Tecnologías Web <img height="20" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" style="vertical-align:middle"></h1></strong>
   <br>
     <br>
