@@ -15,21 +15,24 @@
       <br>
    
 <div align="center">
-  <!-- Primera línea -->
-  <img src="https://img.shields.io/badge/✔️_Responsabilidad-Compromiso_Profesional-0052CC?style=for-the-badge&logo=verified&logoColor=white" alt="Responsabilidad">
-  <img src="https://img.shields.io/badge/🔄_Adaptabilidad-Resiliencia_Tecnológica-00B4D8?style=for-the-badge&logo=loop&logoColor=white" alt="Adaptabilidad">
   
-  <!-- Segunda línea -->
-  <img src="https://img.shields.io/badge/🔍_Pensamiento-Analítico_y_Crítico-6A5ACD?style=for-the-badge&logo=search&logoColor=white" alt="Pensamiento crítico">
-  <img src="https://img.shields.io/badge/💡_Autonomía-Solución_Proactiva-FFA500?style=for-the-badge&logo=idea&logoColor=black" alt="Autonomía">
-  
-  <!-- Tercera línea -->
-  <img src="https://img.shields.io/badge/🎯_Orientación-Resultados_Estratégicos-32CD32?style=for-the-badge&logo=target&logoColor=white" alt="Orientación">
-  <img src="https://img.shields.io/badge/📢_Comunicación-Técnica_Clara-DC143C?style=for-the-badge&logo=message&logoColor=white" alt="Comunicación">
-  
-  <!-- Cuarta línea -->
-  <img src="https://img.shields.io/badge/🤝_Ética-Enfoque_Humano-8A2BE2?style=for-the-badge&logo=handshake&logoColor=white" alt="Ética profesional">
-</div>
+### 💼 Competencias Profesionales
+
+<!-- Fila 1 -->
+<img src="https://img.shields.io/badge/🔵_Responsabilidad-Compromiso_Profesional-0052CC?style=for-the-badge&logo=verified&logoColor=white" alt="Responsabilidad">
+<img src="https://img.shields.io/badge/🟢_Adaptabilidad-Resiliencia_Tecnológica-2ECC71?style=for-the-badge&logo=loop&logoColor=white" alt="Adaptabilidad">
+
+<!-- Fila 2 -->
+<img src="https://img.shields.io/badge/🟣_Pensamiento-Analítico_y_Crítico-9B59B6?style=for-the-badge&logo=search&logoColor=white" alt="Pensamiento crítico">
+<img src="https://img.shields.io/badge/🟠_Autonomía-Solución_Proactiva-FF8C00?style=for-the-badge&logo=idea&logoColor=black" alt="Autonomía">
+
+<!-- Fila 3 -->
+<img src="https://img.shields.io/badge/🟡_Orientación-Resultados_Estratégicos-F1C40F?style=for-the-badge&logo=target&logoColor=black" alt="Orientación">
+<img src="https://img.shields.io/badge/🔴_Comunicación-Técnica_Clara-E74C3C?style=for-the-badge&logo=message&logoColor=white" alt="Comunicación">
+
+<!-- Fila 4 -->
+<img src="https://img.shields.io/badge/🟤_Ética-Enfoque_Humano-A0522D?style=for-the-badge&logo=handshake&logoColor=white" alt="Ética profesional">
+
 </div>
 
 ---
